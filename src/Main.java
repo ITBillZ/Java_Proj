@@ -13,8 +13,6 @@ public class Main {
 
 			HomeFrame homeFrame = new HomeFrame(1300, 730);
 			homeFrame.setVisible(true);
-//			homeFrame.setResizable(false);
-			
 
 		});
 	}
